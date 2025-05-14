@@ -1,0 +1,17 @@
+{
+	id: "6a86f881-2d9b-3ea0-8c04-8da69ef0ca83"
+	type: "player"
+	player_name: "benghijairo_GT"
+	ranks: {
+		6a86f881-2d9b-3ea0-8c04-8da69ef0ca83: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "benghijairo_GT"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF85"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

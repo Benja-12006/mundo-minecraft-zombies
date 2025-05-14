@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "6a86f8812d9b3ea08c048da69ef0ca83"
+	name: "benghijairo_GT#6a86f881"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

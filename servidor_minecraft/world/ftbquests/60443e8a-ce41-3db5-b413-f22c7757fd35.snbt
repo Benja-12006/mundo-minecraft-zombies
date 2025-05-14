@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "60443e8ace413db5b413f22c7757fd35"
+	name: "Asias_SX#60443e8a"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

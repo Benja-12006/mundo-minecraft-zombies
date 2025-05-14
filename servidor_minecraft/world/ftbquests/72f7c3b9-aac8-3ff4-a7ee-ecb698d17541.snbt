@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "72f7c3b9aac83ff4a7eeecb698d17541"
+	name: "natusaurius#72f7c3b9"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
