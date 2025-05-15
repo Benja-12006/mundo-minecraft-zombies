@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2025-05-15 01:41:06 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-05-15 01:41:10 +0000"
@@ -214,12 +220,6 @@
       "in_water": "2025-05-15 01:41:10 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:stony_shore": "2025-05-15 01:41:06 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3465
 }
