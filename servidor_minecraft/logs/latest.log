@@ -5465,3 +5465,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 01:59:04.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benghijairo_GT lost connection: Timed out
 [15May2025 01:59:04.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT left the game
 [15May2025 01:59:04.735] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benghijairo_GT
+[15May2025 02:10:07.591] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benghijairo_GT[/127.119.26.239:41459] logged in with entity id 645 at (-451.7005705876801, 57.0, 105.70020699785765)
+[15May2025 02:10:07.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT joined the game
+[15May2025 02:10:07.636] [Server thread/INFO] [Jade/]: Syncing config to benghijairo_GT (6a86f881-2d9b-3ea0-8c04-8da69ef0ca83)
+[15May2025 02:10:07.640] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[15May2025 02:10:08.410] [Server thread/INFO] [ping-wheel/]: Channel update: benghijairo_GT -> default
+[15May2025 02:10:08.435] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of benghijairo_GT (18)
+[15May2025 02:10:08.436] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to benghijairo_GT
+[15May2025 02:10:37.636] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[15May2025 02:10:50.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT was killed by magic whilst trying to escape Runner
+[15May2025 02:11:07.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benghijairo_GT lost connection: Timed out
+[15May2025 02:11:07.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT left the game
+[15May2025 02:11:07.780] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benghijairo_GT
+[15May2025 02:14:29.134] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8fe10c2[id=<null>,name=benghijairo_GT,properties={},legacy=false] (/127.119.26.239:49001) lost connection: Disconnected
