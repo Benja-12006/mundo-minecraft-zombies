@@ -1,40 +1,454 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1747258820692 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1747271784702 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747258823773 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1747271787778 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747258826847 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1747271790860 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747258830201 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1747271794077 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747258834215 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1747271797145 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747258837288 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1747271800260 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747258840372 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1747271803454 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271806524 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271809586 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271812679 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271815808 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271818871 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271821941 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271825035 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271828102 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271831191 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271834267 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271837348 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271840408 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271843468 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271846530 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271849597 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271852655 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271855846 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271858913 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271862155 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271865215 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271868416 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271871481 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271874546 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271877908 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271881075 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271884378 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271887437 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271890507 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271893582 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271896824 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271899884 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271902949 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271906013 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271909102 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271912173 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271915245 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271918438 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271921691 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271924812 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271927945 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271931111 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271934217 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271938367 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271941611 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271944833 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271947909 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271950973 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271954071 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271957152 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271960226 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271963403 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271966528 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271969711 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271972792 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271975869 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271978937 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271982006 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271985083 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271988196 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271991261 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271994459 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747271997875 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747272001952 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747272005041 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747272008113 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747272011182 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747272014251 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747272017327 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+at-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1747272020450 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 

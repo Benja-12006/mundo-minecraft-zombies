@@ -83,5 +83,23 @@
     },
     "done": true
   },
+  "ags_day_counter:firts_day_advancement": {
+    "criteria": {
+      "firts_day_advancement_0": "2025-05-14 23:53:41 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2025-05-15 01:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-05-15 01:21:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
