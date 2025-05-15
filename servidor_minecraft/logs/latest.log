@@ -5434,3 +5434,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 01:22:12.313] [Server thread/INFO] [ping-wheel/]: Channel update: benghijairo_GT -> default
 [15May2025 01:22:12.315] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of benghijairo_GT (18)
 [15May2025 01:22:12.317] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to benghijairo_GT
+[15May2025 01:28:41.214] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[15May2025 01:28:44.587] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[15May2025 01:28:44.734] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[15May2025 01:28:46.400] [Worker-Main-25/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[15May2025 01:28:53.324] [Worker-Main-25/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/worldgen/DynamicTreeFeature$GeneratorResult
+[15May2025 01:28:53.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT was killed by magic whilst trying to escape Skeleton
+[15May2025 01:28:57.484] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benghijairo_GT lost connection: Timed out
+[15May2025 01:28:57.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT left the game
+[15May2025 01:28:57.485] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benghijairo_GT
